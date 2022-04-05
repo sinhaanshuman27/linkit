@@ -1,3 +1,3 @@
-# linkit
+# links
 
-https://sinhaanshuman27.github.io/linkit/
+https://sinhaanshuman27.github.io/links/
